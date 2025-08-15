@@ -49,7 +49,7 @@ Dự án này là bộ khung front-end (FE) cho một ứng dụng clone Discord
 **Nội dung**:
 - **`components/`**: Component tái sử dụng (e.g., `ChannelList`, `MessageList`).
 - **`features/`**: Logic Redux (store và slices).
-- **`pages/`**: Component cấp trang (e.g., `Home`).
+- **`pages/`**: Component cấp trang (e.g., `HomePage`).
 - **`styles/`**: Tệp CSS (Tailwind và global styles).
 - **`App.jsx`**: Component chính, quản lý routing.
 - **`main.jsx`**: Điểm vào React, render ứng dụng vào `#root`.
